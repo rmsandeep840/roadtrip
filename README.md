@@ -10,5 +10,6 @@
 * JULY
 * AUGUST
 * SEP
+* OCT
 * ![Happy face](https://www.w3schools.com/html/pic_trulli.jpg)
 *  "Happy Face"
